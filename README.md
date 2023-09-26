@@ -14,15 +14,19 @@ change this
 
 
 
-<Script file="Guides/Classic-Alliance-ADV-AoE-Mage-1-22.lua"/>
 
-  
+```<Script file="Guides/Classic-Alliance-ADV-AoE-Mage-1-22.lua"/>```
+
+
+
+     
   
 to 
 
+
+
   
-  
-<Script file="Guides/Classic-Alliance-ADV-AoE-Mage-1-60.lua"/>
+```<Script file="Guides/Classic-Alliance-ADV-AoE-Mage-1-60.lua"/>```
 
   
 
