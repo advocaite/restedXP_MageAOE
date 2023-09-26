@@ -31,3 +31,7 @@ to
   
 
 reload wow or ui in game and you now have 1-60 guide
+
+These guides are given freely to adbide by wow TOS and EULA 
+any addon that offers features or conent behind a paywall is against wows TOS And EULA
+This is released under MIT Licence and Free to use and share and or modify 
