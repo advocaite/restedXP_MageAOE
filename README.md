@@ -10,7 +10,7 @@ drop the lua file into your addon directory /Guides/
 then open guidelist.xml
 
 
-change this:
+change this
 
 
 
